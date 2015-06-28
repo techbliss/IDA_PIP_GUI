@@ -17,8 +17,12 @@ put desired package name under "Enter package name" click search.
 decencies
  Python 2.7.9 / 2.7.10
 download https://www.python.org/downloads/
-
 ida pro
+
+
 
 why ?
 Why not.
+
+
+REMEMBER to have python27\scripts in your PATH
